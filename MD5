@@ -1,10 +1,10 @@
-e1e63295f0abe914f844b5b9c794d52c *DESCRIPTION
+dda7b8436701f0af96a541f979e00b6c *DESCRIPTION
 aa3fe28bf5c7347248093d5540bbd17f *NAMESPACE
+ec06479a513c5779b976388c26ccdc0e *NEWS.md
 91ff500aab855a37815c577ce99e78b3 *R/qap.R
 fc1dd9efb38c60b03748528afa9811a0 *R/qapSA.R
-c825dfea1e32134576fc81bcaf2d2fee *R/read_qaplib.R
-c81116c81814c93be09643974501b68e *README.md
-acc12720cb7b29d457806648d55d6bf2 *inst/NEWS
+30cd699aac3a76c688cf7f48c7fa28df *R/read_qaplib.R
+ba6531106979fa6cc86709cff6d061b4 *README.md
 57571b912a78bbd137128e7178ef06fb *inst/qaplib/bur26a.dat
 13be3d47f2f3f9764d020b3f151d4d2f *inst/qaplib/bur26a.sln
 69fc3936fafdb22f6d0b9a425926ed31 *inst/qaplib/bur26b.dat
@@ -272,5 +272,8 @@ d41597b65e30adc2f836e0fa69e1c5ec *inst/qaplib/wil50.sln
 6bf2a4342f2d8cf19a2d951719539daa *man/qap.Rd
 6d824d069d03a3bedd607d6a369560b0 *man/read_qaplib.Rd
 685da6ed0f42edb41f956384bfb26b3d *src/RNG_wrapper.c
+e0bae157ae9ca5641b3cb6ca60e822bd *src/init.c
 a1704a5ed81a76d036886f002b896fbb *src/qapsim.f
-72fff8388dc59785e65c6e47c229fc52 *tests/test_read_qaplib.R
+7d24cad4e124baab4b7970cc63c700c9 *tests/testthat.R
+de4e749b27ce2034c368c39c152021de *tests/testthat/test-qap.R
+8d31d8ae1a1bd43e582b1ad9d40878b0 *tests/testthat/test-read_qaplib.R
